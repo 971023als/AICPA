@@ -1,39 +1,96 @@
-# AICPA 학습 자료 및 도구
+# AICPA (American Institute of Certified Public Accountants) 학습 자료 및 도구
 
-이 저장소는 **AICPA(미국 공인회계사)** 자격증 시험 준비를 위한 자료를 제공합니다. 학습 자료, 연습 문제, 그리고 성공적인 시험 준비를 위한 다양한 도구를 포함하고 있습니다.
+## 📚 AICPA 개요
+- **목적**: 미국 공인회계사 시험을 통해 회계, 감사, 세무, 재무 보고 및 비즈니스 환경 전반의 전문성을 검증.
+- **시험 구성**: 
+  - **AUD** (Auditing and Attestation)
+  - **BEC** (Business Environment and Concepts)
+  - **FAR** (Financial Accounting and Reporting)
+  - **REG** (Regulation)
+- **시험 형식**:
+  - 객관식 질문 (Multiple-Choice Questions, MCQs)
+  - 작업 시뮬레이션 (Task-Based Simulations, TBSs)
+  - 서술형 응답 (Written Communication Tasks)
+- **시험 시간**: 각 섹션당 4시간
+- **합격 기준**: 75점 이상
 
-## 목차
-- [개요](#개요)
-- [주요 기능](#주요-기능)
-- [시스템 요구사항](#시스템-요구사항)
-- [설치 방법](#설치-방법)
-- [사용법](#사용법)
-- [디렉토리 구조](#디렉토리-구조)
-- [기여 방법](#기여-방법)
-- [라이선스](#라이선스)
+---
 
-## 개요
+## 🛠️ 주요 학습 영역
+1. **Auditing and Attestation (AUD)**
+   - 감사 절차, 윤리 및 독립성
+   - 감사 보고서 작성
+2. **Business Environment and Concepts (BEC)**
+   - 기업 지배구조, 경제 개념
+   - IT 및 리스크 관리
+3. **Financial Accounting and Reporting (FAR)**
+   - GAAP 기반 재무 보고
+   - 정부 및 비영리 회계
+4. **Regulation (REG)**
+   - 연방세법, 비즈니스법
+   - 윤리 및 세무 준비
 
-AICPA 자격증은 회계 분야에서 전 세계적으로 인정받는 자격증입니다. 이 저장소는 다음과 같은 자료를 제공합니다:
-- AICPA 시험 전 영역에 대한 체계적인 학습 노트
-- 실전과 유사한 연습 문제와 해설
-- 반복적인 학습 작업을 자동화하는 도구
-- 핵심 개념과 원리 이해를 위한 추가 자료
+---
 
-## 주요 기능
-- **학습 노트**: AICPA 시험의 모든 영역(AUD, FAR, REG, BEC)을 체계적으로 정리
-- **연습 문제**: 현실적인 문제와 상세한 해설 제공
-- **자동화 도구**: 맞춤형 퀴즈와 플래시카드 생성 스크립트
-- **진도 추적**: 학습 진행 상황을 추적하고 취약점을 파악하는 스크립트 제공
+## 📚 학습 자료
+1. **공식 문서**
+   - [AICPA Exam Blueprints](https://www.aicpa.org/)
+   - [AICPA Practice Exam](https://www.aicpa.org/becomeacpa/cpaexam/practiceexam)
+2. **교재 및 온라인 강의**
+   - [Becker CPA Review](https://www.becker.com/)
+   - [Wiley CPAexcel](https://www.efficientlearning.com/cpa/)
+   - [Roger CPA Review](https://www.rogercpareview.com/)
+3. **연습 플랫폼**
+   - [Surgent CPA Review](https://www.surgentcpareview.com/)
+   - [Gleim CPA Review](https://www.gleim.com/cpa-review/)
 
-## 시스템 요구사항
-- Python 3.8 이상
-- Markdown 편집기 (예: VS Code, Typora)
-- 권장 사항: Jupyter Notebook (대화형 학습 자료 사용을 위해)
+---
 
-## 설치 방법
+## 🛠️ 필수 도구
+1. **CPA Review Software**
+   - Becker CPA, Wiley CPAexcel, Roger CPA
+2. **재무 계산기**
+   - Texas Instruments BA II Plus
+   - HP 12C Financial Calculator
+3. **스마트 노트 앱**
+   - Notion, Evernote, OneNote
+4. **기출문제 풀이 도구**
+   - UWorld Roger CPA Test Bank
+   - Ninja CPA Review
 
-1. **저장소 클론**
-   ```bash
-   git clone https://github.com/username/aicpa-study.git
-   cd aicpa-study
+---
+
+## 📝 학습 플랜
+| 주차  | 학습 주제                          | 비고                                  |
+|-------|-----------------------------------|---------------------------------------|
+| 1주차 | AUD: 감사 보고서 및 윤리           | 감사 및 비준수 사례 학습              |
+| 2주차 | BEC: IT 및 기업 지배구조           | 리스크 관리, 경제 개념 이해            |
+| 3주차 | FAR: GAAP 기반 재무 보고           | 정부 및 비영리 회계 포함              |
+| 4주차 | REG: 연방세법 및 윤리              | 비즈니스법, 세무 준비                 |
+| 5주차 | 모의시험 및 복습                   | Practice Exams 활용                   |
+
+---
+
+## 📑 주요 체크리스트
+1. **AUD: 감사 절차 및 독립성 이해**
+2. **BEC: IT 컨트롤 및 경제 개념 숙지**
+3. **FAR: GAAP 재무 보고 작성 능력**
+4. **REG: 연방세법과 비즈니스법 사례 학습**
+5. **기출문제 풀이 및 시뮬레이션 연습**
+
+---
+
+## 📌 참고 링크
+1. [AICPA 공식 홈페이지](https://www.aicpa.org/)
+2. [NASBA (National Association of State Boards of Accountancy)](https://nasba.org/)
+3. [Prometric 시험 등록](https://www.prometric.com/cpa)
+
+---
+
+## 💬 추가 문의 및 토론
+- AICPA 관련 질문은 [AICPA Community Forum](https://www.aicpa.org/community)에서 나눠보세요.
+- 추가 자료 요청이나 문의 사항은 GitHub Issue를 통해 남겨주세요.
+
+---
+
+### 작성자: **[Your Name]**
